@@ -1,0 +1,190 @@
+(footprint "TRRS-PJ-320A"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 7.493 2.286 0)
+		(layer "Dwgs.User")
+		(uuid "5cc3efd8-559b-4ade-bf6c-e70bf2028426")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "RIGHT1"
+		(at 7.493 4.064 0)
+		(layer "F.Fab")
+		(uuid "c8a8db87-98e6-4011-8cf4-8b2c6ab9f41a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8651e7ce-5432-4e6a-9191-15f327e12b97")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Audio Jack, 4 Poles (TRRS)"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "55075468-48c2-4dcd-bac8-13396b081c36")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start 0 -0.3)
+		(end 2 -0.3)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "e53f5ce5-308e-411c-893c-0b7ef53e7070")
+	)
+	(fp_line
+		(start 0 0)
+		(end 0 -0.3)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "dc94378a-0d1d-40f5-8215-6b7c856ddfa4")
+	)
+	(fp_line
+		(start 0 0)
+		(end 0 4.7)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "69a5d38f-ccc1-4c89-a834-6ac21488d1f4")
+	)
+	(fp_line
+		(start 0 4.7)
+		(end 2 4.7)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "24fabf10-7b3a-4b4e-a931-dce6f3b0beda")
+	)
+	(fp_line
+		(start 2 -1.1)
+		(end 15 -1.1)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "85f97694-5133-4a15-b463-7a041fbc90b2")
+	)
+	(fp_line
+		(start 2 -0.3)
+		(end 2 -1.1)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "05a34fc7-913a-464a-862a-9803ebf18c47")
+	)
+	(fp_line
+		(start 2 4.7)
+		(end 2 5.5)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "a0034641-1cb0-4277-be81-6a6266ea159c")
+	)
+	(fp_line
+		(start 2 5.5)
+		(end 15 5.5)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "a37b57eb-31dc-401e-bca7-88c5dcfeb093")
+	)
+	(fp_line
+		(start 15 -1.1)
+		(end 15 5.5)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "ecc55583-b1e0-4847-bd23-94bdcabd8a62")
+	)
+	(pad "" np_thru_hole circle
+		(at 3.7 2.2)
+		(size 1.2 1.2)
+		(drill 1.2)
+		(layers "*.Cu")
+		(uuid "a35e54ed-f945-4e69-b3eb-209657da6b83")
+	)
+	(pad "" np_thru_hole circle
+		(at 10.7 2.2)
+		(size 1.2 1.2)
+		(drill 1.2)
+		(layers "*.Cu")
+		(uuid "c016ed8c-26f5-4bc6-8bbf-859bdd11eb0a")
+	)
+	(pad "1" thru_hole oval
+		(at 13.15 4.4)
+		(size 2.1 1.3)
+		(drill oval 1.5 0.7)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "f483d434-11c3-407a-b0ba-9dd5560b81ff")
+	)
+	(pad "2" thru_hole oval
+		(at 12.15 0)
+		(size 2.1 1.3)
+		(drill oval 1.5 0.7)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "5d5fb83b-8c59-4e3d-80b9-969a9202a167")
+	)
+	(pad "3" thru_hole oval
+		(at 8.15 0)
+		(size 2.1 1.3)
+		(drill oval 1.5 0.7)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "d03fc67e-4719-4c55-b0c4-4293fb083c2c")
+	)
+	(pad "4" thru_hole oval
+		(at 5.15 0)
+		(size 2.1 1.3)
+		(drill oval 1.5 0.7)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "6f512dbc-0a32-413c-8e04-28ed69bb4641")
+	)
+	(embedded_fonts no)
+)

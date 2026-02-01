@@ -1,0 +1,76 @@
+(footprint "MountingHole_D2.3mm"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "Mounting Hole 4mm, no annular")
+	(tags "mounting hole 4mm no annular")
+	(property "Reference" "REF**"
+		(at 0 -5 0)
+		(layer "Dwgs.User")
+		(hide yes)
+		(uuid "f07f7ef9-979e-4058-a4f2-84c7ef5b41bf")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "Hole_D2.3mm"
+		(at 0 5 0)
+		(layer "F.Fab")
+		(uuid "679f6a8d-0bcf-4dc7-9d16-f9292c878744")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c90bb798-cda7-47ec-a172-b10925790f75")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e54d949f-43c6-4079-bc0b-4388e8bd4f49")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr exclude_from_pos_files exclude_from_bom)
+	(fp_circle
+		(center 0 0)
+		(end 2 0)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(fill no)
+		(layer "Dwgs.User")
+		(uuid "d6216700-3a44-4b84-9b11-fe135ab98495")
+	)
+	(pad "1" thru_hole circle
+		(at 0 0)
+		(size 3.3 3.3)
+		(drill 2.2)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "493deb9b-492c-41df-a2b9-928c3beb5ada")
+	)
+	(embedded_fonts no)
+)
