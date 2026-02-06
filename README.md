@@ -82,7 +82,7 @@ Any redistribution should include proper attribution and a reference to the orig
 
 See the `LICENSE` file for details.
 
-If you are interested in producing this design, creating variants, or collaborating, you are welcome to get in touch via the email address found at [ivndbt.com](https://ivndbt.com/).
+If you are interested in producing this design, creating variants, or collaborating, you are welcome to get in touch via the email address found at [ivndbt.com](https://ivndbt.com/#contact).
 
 ## Sponsors
 
