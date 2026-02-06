@@ -86,7 +86,8 @@ If you are interested in producing this design, creating variants, or collaborat
 
 ## Sponsors
 
-PCB prototyping was sponsored by [PCBWay](https://www.pcbway.com/), who kindly manufactured and provided the prototype boards.
+PCB prototyping was sponsored by [PCBWay](https://www.pcbway.com/), who kindly manufactured and provided the prototype boards.\
+Fabrication quality and turnaround time were solid. Read more about it in [my blogpost](https://ivndbt.com/makes/ows/ows.html).
 
 ## References
 
