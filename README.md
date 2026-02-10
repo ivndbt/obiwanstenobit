@@ -59,7 +59,7 @@ STLs hosted on [Printables]() are provided for convenience, but are not guarante
 
 ObiWanStenobit is powered by both QMK and ZMK firmware.
 
-- QMK: [ivndbt/qmk_firmware](https://github.com/ivndbt/qmk_firmware/tree/add-obiwanstenobit/keyboards/ivndbt/obiwanstenobit) (until merge with upstream)
+- QMK: [ivndbt/qmk_firmware](https://github.com/ivndbt/qmk_firmware/tree/add-obiwanstenobit/keyboards/ivndbt/ows) (until merge with upstream)
 - ZMK: [ivndbt/zmk-config-obiwanstenobit](https://github.com/ivndbt/zmk-config-obiwanstenobit)
 
 Firmware is maintained in the respective upstream repositories.
