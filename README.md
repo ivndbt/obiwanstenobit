@@ -6,7 +6,7 @@ Open-source steno keyboard with a pseudo-split layout, designed to be compact, p
 
 ## Overview
 
-ObiWanStenobit is a 30-key, steno-oriented mechanical keyboard designed with the primary goals of low manufacturing cost and ease of transport.
+ObiWanStenobit (OWS) is a 30-key, steno-oriented mechanical keyboard designed with the primary goals of low manufacturing cost and ease of transport.
 
 The keyboard uses a pseudo-split architecture: it is physically split into two halves, but relies on a single microcontroller rather than the dual-controller setup typical of traditional split keyboards.
 
@@ -59,7 +59,7 @@ STLs hosted on [Printables]() are provided for convenience, but are not guarante
 
 ObiWanStenobit is powered by both QMK and ZMK firmware.
 
-- QMK: [ivndbt/qmk_firmware](https://github.com/ivndbt/qmk_firmware/tree/add-obiwanstenobit/keyboards/ivndbt/ows) (until merge with upstream)
+- QMK: [ivndbt/qmk_firmware](https://github.com/qmk/qmk_firmware/tree/master/keyboards/ivndbt/ows)
 - ZMK: [ivndbt/zmk-config-obiwanstenobit](https://github.com/ivndbt/zmk-config-obiwanstenobit)
 
 Firmware is maintained in the respective upstream repositories.
