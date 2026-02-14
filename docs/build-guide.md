@@ -169,10 +169,8 @@ Solder all switch pins.
 
 ## Firmware Flashing
 
-Prepare the firmware (QMK or ZMK) and flash it to the microcontroller following the instructions on the respective repositories:
+Prepare the firmware of your choice and flash it to the microcontroller following the instructions on the respective repositories. The supported firware are listed on the [main readme](/README.md#firmware).
 
-- QMK: [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware/tree/master/keyboards/ivndbt/ows)
-- ZMK: [ivndbt/zmk-config-obiwanstenobit](https://github.com/ivndbt/zmk-config-obiwanstenobit)
 
 ### Testing
 
