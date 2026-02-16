@@ -28,6 +28,8 @@ More information about the design process and development history are available 
 
 ## Repository structure
 
+- `/`
+  - Build guide (including BOM)
 - `hardware/pcb/`
   - KiCad project files
   - Manufacturing-ready Gerber files
@@ -35,8 +37,7 @@ More information about the design process and development history are available 
   - FreeCAD source files
   - STL files for 3D printing
 - `docs/`
-  - Build guide (including BOM)
-  - Images and additional documentation
+  - Images and additional files
 
 ## Hardware
 
@@ -69,9 +70,13 @@ Firmware is maintained in the respective upstream repositories.
 
 ## Build guide
 
-Assembly instructions and the complete Bill of Materials are provided in:
+Assembly instructions and the complete Bill of Materials are provided in `build-guide.md`
 
-- `docs/build-guide.md`
+## Extra files
+
+`docs/` directory contains supplementary files related to the ObiWanStenobit keyboard development.
+
+- `KLE-ows-via.json`: mapping matrix coordinates for [Keyboard Layout Editor](https://www.keyboard-layout-editor.com/).
 
 ## License
 
