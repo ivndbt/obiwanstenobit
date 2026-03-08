@@ -64,7 +64,7 @@ ObiWanStenobit can run on different firmware:
 - ZMK: [ivndbt/zmk-config-obiwanstenobit](https://github.com/ivndbt/zmk-config-obiwanstenobit)
 - Javelin: [ivndbt/javelin-steno-pico/artifacts_ows](https://github.com/ivndbt/javelin-steno-pico/tree/add-ows/artifacts_ows)
 - VIA: [ivndbt/qmk_userspace](https://github.com/ivndbt/qmk_userspace/tree/add-ows-via) pending PR
-- Vial: [ivndbt/vial-qmk](https://github.com/ivndbt/vial-qmk/tree/add-ows-vial) pending PR 
+- Vial: [vial-kb/vial-qmk](https://github.com/vial-kb/vial-qmk/tree/vial/keyboards/ivndbt/ows)
 
 Firmware is maintained in the respective upstream repositories.
 
